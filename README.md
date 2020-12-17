@@ -1,4 +1,4 @@
-# 대학교 과제, 학원과제를 업로드
+# 대학교 과제, 학원에서 배운 코드를 올리는 기록소
 >
 > [python](https://github.com/hungrytech/project1/tree/main/python)
 
