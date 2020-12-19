@@ -15,7 +15,7 @@ for i in range(n) :
 
 print(result)
 
-# 숫자 카드 게임 이중 for문 이용 함수 이용
+# 숫자 카드 게임 이중 for문 이용
 n, m = map(int, input().split()) #n, m 공백으로 구분하여 받기
 tmp = 0 # 리스트의 들어있는 수들을 비교하기 위한 임시값
 min_value = 0 # 행의 가장 작은수
