@@ -8,3 +8,7 @@
 > [python](https://github.com/hungrytech/project1/tree/main/python)
 
 > [Java](https://github.com/hungrytech/project1/tree/main/StudyJAVA/src/JAVATIL)
+>
+### 알고리즘
+>
+> [Greedy Algorithm](https://github.com/hungrytech/Practice-code/tree/main/Greedy%20Algorithm)
