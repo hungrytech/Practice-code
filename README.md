@@ -16,3 +16,5 @@
 > [Algorithm implementation](https://github.com/hungrytech/Practice-code/tree/main/Algorithm%20implementation)
 >
 >[Sort](https://github.com/hungrytech/Practice-code/tree/main/Sort)
+>
+>[DFS and BFS](https://github.com/hungrytech/Practice-code/tree/main/DFS%20and%20BFS)
