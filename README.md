@@ -18,3 +18,5 @@
 >[Sort](https://github.com/hungrytech/Practice-code/tree/main/Sort)
 >
 >[DFS and BFS](https://github.com/hungrytech/Practice-code/tree/main/DFS%20and%20BFS)
+>
+>[Binary Search](https://github.com/hungrytech/Practice-code/tree/main/Binary%20Search)
