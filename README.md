@@ -7,7 +7,7 @@
 >
 > [python](https://github.com/hungrytech/project1/tree/main/python)
 
-> [Java](https://github.com/hungrytech/project1/tree/main/StudyJAVA/src/JAVATIL)
+> [Java](https://github.com/hungrytech/Practice-code/tree/main/StudyJAVA/src)
 >
 ### 알고리즘
 >
