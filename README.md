@@ -22,3 +22,5 @@
 >[Binary Search](https://github.com/hungrytech/Practice-code/tree/main/Binary%20Search)
 >
 >[Dynamic Programming](https://github.com/hungrytech/Practice-code/tree/main/Dynamic%20Programming)
+>
+>[Dijkstra Algroithm](https://github.com/hungrytech/Practice-code/tree/main/Dijkstra)
