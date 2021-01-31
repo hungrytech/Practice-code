@@ -34,7 +34,7 @@ public class FileClone {
 			while ((line = fis.read(arr))!=-1) {
 				fos.write(arr, 0, line);
 			}
-		// 다중 catch문 연습을 위해 써봣다.
+		// 다중 catch문 연습을 위해 사용.
 		}catch(FileNotFoundException e) {
 			e.printStackTrace();
 		}catch (IOException e) {
